@@ -220,6 +220,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/buttplu
   - Paid, available at https://www.patreon.com/goatvr
   - Windows 10+ only, VR only
   - Furry focused animation player with selectable characters, scenes and voice actresses.
+ - [Deepthroat Simulator](https://squirclegames.itch.io/ecchi-fantasy-vr)
+  - Paid, available on [itch.io](https://squirclegames.itch.io/ecchi-fantasy-vr)
+  - Windows 10+ only, VR & Desktop Support
+  - Blowjob simulator with custom VRoid Character import support.
 
 ## Game Mods
 
